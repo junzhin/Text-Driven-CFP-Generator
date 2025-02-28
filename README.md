@@ -8,28 +8,28 @@ The scarcity of high-quality labelled retinal imaging data poses a significant c
 
 ## 🚀 Model Pipelines and Fusion Graphical Illustration:
 
-![Overview of Method Pipeline](./path/to/your/pipeline_image.png)
-![Overview of Method Fusion](./path/to/your/fusion_image.png)
+![Overview of Method Pipeline](./scr/Ablation_Study.png)
+![Overview of Method Fusion](./scr/Radar_Chart.png)
 
 ## 🖼️ Illustrative Examples
 
 Below are some examples demonstrating the impact of textual prompts on synthetic retinal image generation:
 
 ### Example 1: Diabetic Retinopathy (DR) Progression
-| Prompt | Generated Image |
-| --- | --- |
-| **Age: 50, Stage: Early DR** | ![Early DR](./path/to/early_dr_image.png) |
-| **Age: 50, Stage: Advanced DR** | ![Advanced DR](./path/to/advanced_dr_image.png) |
+| Prompt                          | Generated Image                             |
+| ------------------------------- | ------------------------------------------- |
+| **Age: 50, Stage: Early DR**    | ![Early DR](./scr/CFPs_Evaluation_Test.png) |
+| **Age: 50, Stage: Advanced DR** | ![Advanced DR](./scr/visual_comparsion.png) |
 
 ### Example 2: Glaucoma Detection
-| Prompt | Generated Image |
-| --- | --- |
-| **Diagnosis: Glaucoma** | ![Glaucoma](./path/to/glaucoma_image.png) |
+| Prompt                  | Generated Image                |
+| ----------------------- | ------------------------------ |
+| **Diagnosis: Glaucoma** | ![Glaucoma](./scr/DRandGL.png) |
 
 ### Example 3: Pathological Features
-| Prompt | Generated Image |
-| --- | --- |
-| **Diagnosis: Macular Hole** | ![Macular Hole](./path/to/macular_hole_image.png) |
+| Prompt                      | Generated Image                         |
+| --------------------------- | --------------------------------------- |
+| **Diagnosis: Macular Hole** | ![Macular Hole](./scr/Quantitative.png) |
 
 ## 🎉 More Examples
 Here are additional examples demonstrating diverse generation capabilities based on different retinal conditions and disease stages.
@@ -43,3 +43,7 @@ Here are additional examples demonstrating diverse generation capabilities based
 - **Fine-grained Control**: Our method allows for detailed control over retinal anatomical structures and disease stages via free-form textual prompts.
 - **Superior Performance**: RetinaLogos outperforms existing models in generating clinically accurate and high-quality retinal images.
 - **Generalizable Framework**: Our framework can be applied to a wide range of ophthalmological conditions, supporting future research in medical image synthesis.
+
+## 🚨 Code Release
+
+We plan to release the source code for RetinaLogos if the paper is accepted. Stay tuned for the release, which will be made available on our GitHub repository.
