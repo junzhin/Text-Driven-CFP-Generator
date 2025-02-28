@@ -4,7 +4,7 @@ This document presents the implementation of **RetinaLogos: Fine-Grained Synthes
 
 ## 🌟 Abstract
 
-- **Why Ours Matters? **  
+- **Why Ours Matters?**  
   ![Model Architecture](scr/teaser.png)
 
 The scarcity of high-quality, labeled retinal imaging data presents a significant challenge in ophthalmology. In this work, we introduce **RetinaLogos**, a groundbreaking text-to-image framework that utilizes a large-scale synthetic caption dataset (1.4 million entries) to generate high-resolution retinal images. Our approach combines Electronic Health Records (EHRs) with multimodal text generation, enabling fine-grained semantic control over the generated images. **RetinaLogos** can synthesize retinal images that capture subtle anatomical variations and disease progression, providing valuable insights for early detection and clinical training purposes. Our method demonstrates state-of-the-art performance across multiple datasets, achieving a 10%-25% improvement in classification tasks such as diabetic retinopathy grading and glaucoma detection.
