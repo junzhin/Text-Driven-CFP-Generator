@@ -35,6 +35,9 @@ The scarcity of high-quality, labeled retinal imaging data presents a significan
 - **Evaluation of Individual Rare Diseases**  
   ![Rare Diseases Examples](scr/Radar_Chart.png)
 
+- **More Examples**  
+  ![Rare Diseases Examples](scr/MoreExamples.png)
+
 ## 💡 Highlights
 
 - **Large-Scale Synthetic Dataset**: We assembled a dataset of 1.4 million synthetic retinal caption-image pairs to enable the generation of high-resolution, clinically relevant images.
@@ -47,4 +50,4 @@ The scarcity of high-quality, labeled retinal imaging data presents a significan
 
 ## 🚨 Code Release
 
-We plan to release the source code for **RetinaLogos** upon acceptance of the paper. Stay tuned for the release, which will be made available on our GitHub repository.
+We hope to make the source code for **RetinaLogos** available upon acceptance of the paper. Please stay tuned for updates, and the code will be shared on our GitHub repository as soon as it is ready.
