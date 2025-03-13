@@ -12,7 +12,7 @@ The scarcity of high-quality, labeled retinal imaging data presents a significan
 
 ## 🎬 Video Demonstration
 
-Visit our [project page](https://your-project-website.com) to watch the demonstration video.
+Visit our [project page](scr/video720.mov) to watch the demonstration video.
 
 ## 💡 Highlights 
 
